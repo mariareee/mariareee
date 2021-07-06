@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mariareee
+- 👀 I’m interested in learning,reading,adventure
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on projects
