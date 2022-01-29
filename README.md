@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mariareee
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects
+
